@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BERT-CH-NER" vcs="" />
+    <mapping directory="$PROJECT_DIR$/ChineseNER-pytorch" vcs="" />
+    <mapping directory="$PROJECT_DIR$/bert_sep_to_sep/bert_seq2seq" vcs="" />
+    <mapping directory="$PROJECT_DIR$/bert_seq2seq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/corpus" vcs="Git" />
+  </component>
+</project>
